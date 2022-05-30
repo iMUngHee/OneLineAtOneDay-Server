@@ -1,0 +1,5 @@
+# pacages
+node_modules
+
+# process
+.env
