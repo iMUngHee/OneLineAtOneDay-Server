@@ -1,0 +1,25 @@
+{
+  "name": "onelineatoneday",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iMUngHee/OneLineAtOneDay-Server.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "UngheeLee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iMUngHee/OneLineAtOneDay-Server/issues"
+  },
+  "homepage": "https://github.com/iMUngHee/OneLineAtOneDay-Server#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
